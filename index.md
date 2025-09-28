@@ -28,3 +28,8 @@ def fib(n):
       b = temp
     return b
 ```
+
+<!-- Checklist -->
+- [X] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
